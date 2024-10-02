@@ -1,3 +1,4 @@
 streamlit
 IPython
 llama-index
+llama-index-llms-ollama
